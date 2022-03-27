@@ -6,6 +6,9 @@ Transmission and reception of signals in the RS232 standard serially take place,
 
 The end of transmission is signalled by the stop bit, which is a high state ("1"). Data in the RS-232 standard was sent using the Putty program, where the Serial connection was selected, with the speed of 9600 and the COM7 port. Local echo has been turned on to verify that the characters are receiving, processing, and sending correctly.
 
+For example:
+<img src="https://user-images.githubusercontent.com/79804729/160302791-74f16189-8b5b-4bca-ab26-988c8d577952.jpg" width="100%"></img> 
+
 ###### Simulation results
 <img src="https://user-images.githubusercontent.com/79804729/160301829-92dcaccc-3626-402d-9348-b7caa67f773a.png" width="100%"></img> 
 
